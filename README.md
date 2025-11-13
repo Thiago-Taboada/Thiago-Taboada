@@ -63,3 +63,36 @@ I’m passionate about creating scalable and efficient technological solutions, 
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-Taboada&theme=rogue&hide_border=true&color=75eeb2&line=e683d9" width="100%">
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+
+<img src="https://raw.githubusercontent.com/Thiago-Taboada/snk/main/dist/svg/github-contribution-grid-snake-dark.svg
+" width="100%">
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+
+
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">   
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60">
+
+</h4>
+
+ 
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/Thiago-Taboada/Thiago-Taboada/main/footer.svg" width="100%">
+
+<p align="right">
+<!--RECENT_ACTIVITY:last_update-->
+<i>Last refresh</i> : <b>Thursday, November 13th, 2025</b>
+<!--RECENT_ACTIVITY:last_update_end-->
