@@ -65,8 +65,7 @@ I’m passionate about creating scalable and efficient technological solutions, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-Taboada&theme=rogue&hide_border=true&color=75eeb2&line=e683d9" width="100%">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
 
-<img src="https://raw.githubusercontent.com/Thiago-Taboada/snk/main/dist/svg/github-contribution-grid-snake-dark.svg
-" width="100%">
+<img src="https://raw.githubusercontent.com/Thiago-Taboada/snk/main/dist/svg/github-contribution-grid-snake-dark.svg" width="100%">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
