@@ -86,7 +86,6 @@ I’m passionate about creating scalable and efficient technological solutions, 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60">
 
 </h4>
-
  
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/Thiago-Taboada/Thiago-Taboada/main/footer.svg" width="100%">
